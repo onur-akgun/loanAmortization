@@ -90,7 +90,7 @@
          amortizationTable += "</tr>";
         
         // set the new beginning balance equal to this month's new loan balance
-        monthlyBeginingBalance = monthlyBeginingBalance;
+        monthlyBeginingBalance = monthlyEndingBalance;
         
         }
 
